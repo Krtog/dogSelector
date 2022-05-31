@@ -55,6 +55,37 @@ label {
   padding: 0 15px 0 5px;;
 }
 
+#haveChildrenY {
+  width: 25px;
+  height: 25px;
+}
+
+#haveChildrenN {
+  width: 25px;
+  height: 25px;
+}
+
+#physicallyActiveY {
+  width: 25px;
+  height: 25px;
+}
+
+#physicallyActiveN {
+  width: 25px;
+  height: 25px;
+}
+
+#bigDogsY {
+  width: 25px;
+  height: 25px;
+}
+
+#bigDogsN {
+  width: 25px;
+  height: 25px;
+}
+
+
 p {
   display: block;
   font-weight: 700;
