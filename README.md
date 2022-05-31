@@ -3,7 +3,7 @@ Our web application helps dog lovers choose a dog breed based on compatibility w
 
 **Link to project:** https://dogselectorquiz.herokuapp.com/
 
-<img src="https://imgur.com/pRX17hb.png" />
+<img src="https://imgur.com/jrDGrUr.png" />
 
 
 ## How It's Made:
